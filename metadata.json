@@ -1,0 +1,6 @@
+{
+  "name": "Shop Manager Mobile",
+  "description": "Fully offline mobile shop manager for Android with Drift local database, iOS squircle icon system, and animated spring tab navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

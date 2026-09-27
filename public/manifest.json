@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Shop Manager Mobile",
+  "short_name": "ShopManager",
+  "description": "Fully offline mobile shop manager for Android with Drift database and POS counter billing in Pakistani Rupees.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F6F5F1",
+  "theme_color": "#1B4B43",
+  "categories": ["business", "finance", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

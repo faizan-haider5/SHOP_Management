@@ -1,0 +1,10 @@
+Shop Management System
+Copyright © 2026 Faizan Haider. All Rights Reserved.
+
+This software and its source code are the proprietary property of Faizan Haider
+and may not be copied, distributed, modified, or resold without express written
+permission from the author.
+
+Developer: Faizan Haider
+Phone: 0342-7375861
+Email: faizan546233@gmail.com
